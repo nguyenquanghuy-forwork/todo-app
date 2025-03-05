@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:fontFamily="@font/aref_ruqaa"
+        android:icon="@drawable/icon_home"
+        android:title="Your Profile" />
+    <item android:id="@+id/task"
+        android:title="Task"
+        android:icon="@drawable/icon_task"
+        />
+    <item
+        android:id="@+id/logOut"
+        android:fontFamily="@font/aref_ruqaa"
+        android:icon="@drawable/icon_logout"
+        android:title="Log Out" />
+</menu>
